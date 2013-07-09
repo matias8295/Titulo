@@ -1,10 +1,9 @@
-Titulo
-======
+Tesis SAF
+============
 
 Proyecto de titulo 2013
 
-- Matias Celedon G
-- Ruperto Bugueno P
+ 
 
 Sistema de Unificacion de procesos de distintas areas, el problema
 fuerte de la empresa radica en la perdida de producto en el bodega, ya que este
